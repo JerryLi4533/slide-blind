@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+output/*
+!output/.gitkeep
+.qa/
+*.log
+dist/
+# Local source documents/fonts are kept on disk; packaged assets suffice to build.
+/*.pptx
+/*.docx
+/PPT乱讲大赛字体/
+.DS_Store
+Thumbs.db

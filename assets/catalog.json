@@ -1,0 +1,844 @@
+{
+  "image1": {
+    "file": "samples/image1.webp",
+    "mime": "image/webp",
+    "source": "image1.png"
+  },
+  "image10": {
+    "file": "samples/image10.webp",
+    "mime": "image/webp",
+    "source": "image10.png"
+  },
+  "image100": {
+    "file": "samples/image100.webp",
+    "mime": "image/webp",
+    "source": "image100.jpeg"
+  },
+  "image101": {
+    "file": "samples/image101.webp",
+    "mime": "image/webp",
+    "source": "image101.jpeg"
+  },
+  "image102": {
+    "file": "samples/image102.webp",
+    "mime": "image/webp",
+    "source": "image102.jpeg"
+  },
+  "image103": {
+    "file": "samples/image103.webp",
+    "mime": "image/webp",
+    "source": "image103.gif"
+  },
+  "image104": {
+    "file": "samples/image104.webp",
+    "mime": "image/webp",
+    "source": "image104.jpeg"
+  },
+  "image105": {
+    "file": "samples/image105.webp",
+    "mime": "image/webp",
+    "source": "image105.png"
+  },
+  "image106": {
+    "file": "samples/image106.webp",
+    "mime": "image/webp",
+    "source": "image106.jpeg"
+  },
+  "image107": {
+    "file": "samples/image107.webp",
+    "mime": "image/webp",
+    "source": "image107.jpeg"
+  },
+  "image108": {
+    "file": "samples/image108.webp",
+    "mime": "image/webp",
+    "source": "image108.jpeg"
+  },
+  "image109": {
+    "file": "samples/image109.webp",
+    "mime": "image/webp",
+    "source": "image109.jpeg"
+  },
+  "image11": {
+    "file": "samples/image11.webp",
+    "mime": "image/webp",
+    "source": "image11.png"
+  },
+  "image110": {
+    "file": "samples/image110.webp",
+    "mime": "image/webp",
+    "source": "image110.jpeg"
+  },
+  "image111": {
+    "file": "samples/image111.webp",
+    "mime": "image/webp",
+    "source": "image111.png"
+  },
+  "image112": {
+    "file": "samples/image112.webp",
+    "mime": "image/webp",
+    "source": "image112.jpeg"
+  },
+  "image113": {
+    "file": "samples/image113.webp",
+    "mime": "image/webp",
+    "source": "image113.png"
+  },
+  "image114": {
+    "file": "samples/image114.webp",
+    "mime": "image/webp",
+    "source": "image114.jpg"
+  },
+  "image115": {
+    "file": "samples/image115.webp",
+    "mime": "image/webp",
+    "source": "image115.png"
+  },
+  "image116": {
+    "file": "samples/image116.webp",
+    "mime": "image/webp",
+    "source": "image116.jpg"
+  },
+  "image117": {
+    "file": "samples/image117.webp",
+    "mime": "image/webp",
+    "source": "image117.gif"
+  },
+  "image118": {
+    "file": "samples/image118.webp",
+    "mime": "image/webp",
+    "source": "image118.jpeg"
+  },
+  "image119": {
+    "file": "samples/image119.webp",
+    "mime": "image/webp",
+    "source": "image119.png"
+  },
+  "image12": {
+    "file": "samples/image12.webp",
+    "mime": "image/webp",
+    "source": "image12.png"
+  },
+  "image120": {
+    "file": "samples/image120.webp",
+    "mime": "image/webp",
+    "source": "image120.png"
+  },
+  "image121": {
+    "file": "samples/image121.webp",
+    "mime": "image/webp",
+    "source": "image121.jpeg"
+  },
+  "image122": {
+    "file": "samples/image122.webp",
+    "mime": "image/webp",
+    "source": "image122.png"
+  },
+  "image123": {
+    "file": "samples/image123.webp",
+    "mime": "image/webp",
+    "source": "image123.jpeg"
+  },
+  "image124": {
+    "file": "samples/image124.webp",
+    "mime": "image/webp",
+    "source": "image124.jpeg"
+  },
+  "image125": {
+    "file": "samples/image125.webp",
+    "mime": "image/webp",
+    "source": "image125.jpeg"
+  },
+  "image126": {
+    "file": "samples/image126.webp",
+    "mime": "image/webp",
+    "source": "image126.jpeg"
+  },
+  "image127": {
+    "file": "samples/image127.webp",
+    "mime": "image/webp",
+    "source": "image127.jpeg"
+  },
+  "image128": {
+    "file": "samples/image128.webp",
+    "mime": "image/webp",
+    "source": "image128.jpeg"
+  },
+  "image129": {
+    "file": "samples/image129.webp",
+    "mime": "image/webp",
+    "source": "image129.png"
+  },
+  "image13": {
+    "file": "samples/image13.webp",
+    "mime": "image/webp",
+    "source": "image13.png"
+  },
+  "image130": {
+    "file": "samples/image130.webp",
+    "mime": "image/webp",
+    "source": "image130.jpeg"
+  },
+  "image131": {
+    "file": "samples/image131.webp",
+    "mime": "image/webp",
+    "source": "image131.jpeg"
+  },
+  "image132": {
+    "file": "samples/image132.webp",
+    "mime": "image/webp",
+    "source": "image132.jpeg"
+  },
+  "image133": {
+    "file": "samples/image133.webp",
+    "mime": "image/webp",
+    "source": "image133.png"
+  },
+  "image134": {
+    "file": "samples/image134.webp",
+    "mime": "image/webp",
+    "source": "image134.png"
+  },
+  "image135": {
+    "file": "samples/image135.webp",
+    "mime": "image/webp",
+    "source": "image135.png"
+  },
+  "image136": {
+    "file": "samples/image136.webp",
+    "mime": "image/webp",
+    "source": "image136.jpeg"
+  },
+  "image137": {
+    "file": "samples/image137.webp",
+    "mime": "image/webp",
+    "source": "image137.jpeg"
+  },
+  "image138": {
+    "file": "samples/image138.webp",
+    "mime": "image/webp",
+    "source": "image138.jpeg"
+  },
+  "image139": {
+    "file": "samples/image139.webp",
+    "mime": "image/webp",
+    "source": "image139.jpeg"
+  },
+  "image14": {
+    "file": "samples/image14.webp",
+    "mime": "image/webp",
+    "source": "image14.png"
+  },
+  "image140": {
+    "file": "samples/image140.webp",
+    "mime": "image/webp",
+    "source": "image140.jpeg"
+  },
+  "image141": {
+    "file": "samples/image141.webp",
+    "mime": "image/webp",
+    "source": "image141.png"
+  },
+  "image142": {
+    "file": "samples/image142.webp",
+    "mime": "image/webp",
+    "source": "image142.png"
+  },
+  "image143": {
+    "file": "samples/image143.webp",
+    "mime": "image/webp",
+    "source": "image143.jpeg"
+  },
+  "image144": {
+    "file": "samples/image144.webp",
+    "mime": "image/webp",
+    "source": "image144.jpeg"
+  },
+  "image145": {
+    "file": "samples/image145.webp",
+    "mime": "image/webp",
+    "source": "image145.png"
+  },
+  "image146": {
+    "file": "samples/image146.webp",
+    "mime": "image/webp",
+    "source": "image146.jpeg"
+  },
+  "image147": {
+    "file": "samples/image147.webp",
+    "mime": "image/webp",
+    "source": "image147.jpeg"
+  },
+  "image148": {
+    "file": "samples/image148.webp",
+    "mime": "image/webp",
+    "source": "image148.jpeg"
+  },
+  "image149": {
+    "file": "samples/image149.webp",
+    "mime": "image/webp",
+    "source": "image149.jpeg"
+  },
+  "image15": {
+    "file": "samples/image15.webp",
+    "mime": "image/webp",
+    "source": "image15.jpeg"
+  },
+  "image150": {
+    "file": "samples/image150.webp",
+    "mime": "image/webp",
+    "source": "image150.jpeg"
+  },
+  "image151": {
+    "file": "samples/image151.webp",
+    "mime": "image/webp",
+    "source": "image151.jpg"
+  },
+  "image152": {
+    "file": "samples/image152.webp",
+    "mime": "image/webp",
+    "source": "image152.jpeg"
+  },
+  "image153": {
+    "file": "samples/image153.webp",
+    "mime": "image/webp",
+    "source": "image153.jpeg"
+  },
+  "image154": {
+    "file": "samples/image154.webp",
+    "mime": "image/webp",
+    "source": "image154.jpeg"
+  },
+  "image155": {
+    "file": "samples/image155.webp",
+    "mime": "image/webp",
+    "source": "image155.jpeg"
+  },
+  "image156": {
+    "file": "samples/image156.webp",
+    "mime": "image/webp",
+    "source": "image156.png"
+  },
+  "image157": {
+    "file": "samples/image157.webp",
+    "mime": "image/webp",
+    "source": "image157.jpg"
+  },
+  "image158": {
+    "file": "samples/image158.webp",
+    "mime": "image/webp",
+    "source": "image158.jpeg"
+  },
+  "image159": {
+    "file": "samples/image159.webp",
+    "mime": "image/webp",
+    "source": "image159.jpeg"
+  },
+  "image16": {
+    "file": "samples/image16.webp",
+    "mime": "image/webp",
+    "source": "image16.jpeg"
+  },
+  "image160": {
+    "file": "samples/image160.webp",
+    "mime": "image/webp",
+    "source": "image160.jpeg"
+  },
+  "image161": {
+    "file": "samples/image161.webp",
+    "mime": "image/webp",
+    "source": "image161.png"
+  },
+  "image17": {
+    "file": "samples/image17.webp",
+    "mime": "image/webp",
+    "source": "image17.jpeg"
+  },
+  "image18": {
+    "file": "samples/image18.webp",
+    "mime": "image/webp",
+    "source": "image18.jpeg"
+  },
+  "image19": {
+    "file": "samples/image19.webp",
+    "mime": "image/webp",
+    "source": "image19.jpeg"
+  },
+  "image20": {
+    "file": "samples/image20.webp",
+    "mime": "image/webp",
+    "source": "image20.png"
+  },
+  "image21": {
+    "file": "samples/image21.webp",
+    "mime": "image/webp",
+    "source": "image21.jpeg"
+  },
+  "image22": {
+    "file": "samples/image22.webp",
+    "mime": "image/webp",
+    "source": "image22.jpeg"
+  },
+  "image23": {
+    "file": "samples/image23.webp",
+    "mime": "image/webp",
+    "source": "image23.png"
+  },
+  "image24": {
+    "file": "samples/image24.webp",
+    "mime": "image/webp",
+    "source": "image24.jpeg"
+  },
+  "image25": {
+    "file": "samples/image25.webp",
+    "mime": "image/webp",
+    "source": "image25.png"
+  },
+  "image26": {
+    "file": "samples/image26.webp",
+    "mime": "image/webp",
+    "source": "image26.png"
+  },
+  "image27": {
+    "file": "samples/image27.webp",
+    "mime": "image/webp",
+    "source": "image27.jpeg"
+  },
+  "image28": {
+    "file": "samples/image28.webp",
+    "mime": "image/webp",
+    "source": "image28.jpeg"
+  },
+  "image29": {
+    "file": "samples/image29.webp",
+    "mime": "image/webp",
+    "source": "image29.jpeg"
+  },
+  "image30": {
+    "file": "samples/image30.webp",
+    "mime": "image/webp",
+    "source": "image30.png"
+  },
+  "image31": {
+    "file": "samples/image31.webp",
+    "mime": "image/webp",
+    "source": "image31.jpeg"
+  },
+  "image32": {
+    "file": "samples/image32.webp",
+    "mime": "image/webp",
+    "source": "image32.jpeg"
+  },
+  "image33": {
+    "file": "samples/image33.webp",
+    "mime": "image/webp",
+    "source": "image33.png"
+  },
+  "image34": {
+    "file": "samples/image34.webp",
+    "mime": "image/webp",
+    "source": "image34.png"
+  },
+  "image35": {
+    "file": "samples/image35.webp",
+    "mime": "image/webp",
+    "source": "image35.jpeg"
+  },
+  "image36": {
+    "file": "samples/image36.webp",
+    "mime": "image/webp",
+    "source": "image36.jpeg"
+  },
+  "image37": {
+    "file": "samples/image37.webp",
+    "mime": "image/webp",
+    "source": "image37.jpeg"
+  },
+  "image38": {
+    "file": "samples/image38.webp",
+    "mime": "image/webp",
+    "source": "image38.jpeg"
+  },
+  "image39": {
+    "file": "samples/image39.webp",
+    "mime": "image/webp",
+    "source": "image39.png"
+  },
+  "image40": {
+    "file": "samples/image40.webp",
+    "mime": "image/webp",
+    "source": "image40.png"
+  },
+  "image41": {
+    "file": "samples/image41.webp",
+    "mime": "image/webp",
+    "source": "image41.jpeg"
+  },
+  "image42": {
+    "file": "samples/image42.webp",
+    "mime": "image/webp",
+    "source": "image42.jpeg"
+  },
+  "image43": {
+    "file": "samples/image43.webp",
+    "mime": "image/webp",
+    "source": "image43.png"
+  },
+  "image44": {
+    "file": "samples/image44.webp",
+    "mime": "image/webp",
+    "source": "image44.jpeg"
+  },
+  "image45": {
+    "file": "samples/image45.webp",
+    "mime": "image/webp",
+    "source": "image45.jpeg"
+  },
+  "image46": {
+    "file": "samples/image46.webp",
+    "mime": "image/webp",
+    "source": "image46.jpeg"
+  },
+  "image47": {
+    "file": "samples/image47.webp",
+    "mime": "image/webp",
+    "source": "image47.jpeg"
+  },
+  "image48": {
+    "file": "samples/image48.webp",
+    "mime": "image/webp",
+    "source": "image48.jpeg"
+  },
+  "image49": {
+    "file": "samples/image49.webp",
+    "mime": "image/webp",
+    "source": "image49.png"
+  },
+  "image50": {
+    "file": "samples/image50.webp",
+    "mime": "image/webp",
+    "source": "image50.jpeg"
+  },
+  "image51": {
+    "file": "samples/image51.webp",
+    "mime": "image/webp",
+    "source": "image51.png"
+  },
+  "image52": {
+    "file": "samples/image52.webp",
+    "mime": "image/webp",
+    "source": "image52.png"
+  },
+  "image53": {
+    "file": "samples/image53.webp",
+    "mime": "image/webp",
+    "source": "image53.jpeg"
+  },
+  "image54": {
+    "file": "samples/image54.webp",
+    "mime": "image/webp",
+    "source": "image54.jpeg"
+  },
+  "image55": {
+    "file": "samples/image55.webp",
+    "mime": "image/webp",
+    "source": "image55.jpeg"
+  },
+  "image56": {
+    "file": "samples/image56.webp",
+    "mime": "image/webp",
+    "source": "image56.png"
+  },
+  "image57": {
+    "file": "samples/image57.webp",
+    "mime": "image/webp",
+    "source": "image57.jpeg"
+  },
+  "image58": {
+    "file": "samples/image58.webp",
+    "mime": "image/webp",
+    "source": "image58.jpeg"
+  },
+  "image59": {
+    "file": "samples/image59.webp",
+    "mime": "image/webp",
+    "source": "image59.jpeg"
+  },
+  "image6": {
+    "file": "samples/image6.webp",
+    "mime": "image/webp",
+    "source": "image6.png"
+  },
+  "image60": {
+    "file": "samples/image60.webp",
+    "mime": "image/webp",
+    "source": "image60.jpeg"
+  },
+  "image61": {
+    "file": "samples/image61.webp",
+    "mime": "image/webp",
+    "source": "image61.jpeg"
+  },
+  "image62": {
+    "file": "samples/image62.webp",
+    "mime": "image/webp",
+    "source": "image62.jpeg"
+  },
+  "image63": {
+    "file": "samples/image63.webp",
+    "mime": "image/webp",
+    "source": "image63.png"
+  },
+  "image64": {
+    "file": "samples/image64.webp",
+    "mime": "image/webp",
+    "source": "image64.png"
+  },
+  "image65": {
+    "file": "samples/image65.webp",
+    "mime": "image/webp",
+    "source": "image65.jpeg"
+  },
+  "image66": {
+    "file": "samples/image66.webp",
+    "mime": "image/webp",
+    "source": "image66.png"
+  },
+  "image67": {
+    "file": "samples/image67.webp",
+    "mime": "image/webp",
+    "source": "image67.jpeg"
+  },
+  "image68": {
+    "file": "samples/image68.webp",
+    "mime": "image/webp",
+    "source": "image68.jpeg"
+  },
+  "image69": {
+    "file": "samples/image69.webp",
+    "mime": "image/webp",
+    "source": "image69.jpeg"
+  },
+  "image70": {
+    "file": "samples/image70.webp",
+    "mime": "image/webp",
+    "source": "image70.png"
+  },
+  "image71": {
+    "file": "samples/image71.webp",
+    "mime": "image/webp",
+    "source": "image71.png"
+  },
+  "image72": {
+    "file": "samples/image72.webp",
+    "mime": "image/webp",
+    "source": "image72.jpeg"
+  },
+  "image73": {
+    "file": "samples/image73.webp",
+    "mime": "image/webp",
+    "source": "image73.jpeg"
+  },
+  "image74": {
+    "file": "samples/image74.webp",
+    "mime": "image/webp",
+    "source": "image74.png"
+  },
+  "image75": {
+    "file": "samples/image75.webp",
+    "mime": "image/webp",
+    "source": "image75.png"
+  },
+  "image76": {
+    "file": "samples/image76.webp",
+    "mime": "image/webp",
+    "source": "image76.jpeg"
+  },
+  "image77": {
+    "file": "samples/image77.webp",
+    "mime": "image/webp",
+    "source": "image77.jpeg"
+  },
+  "image78": {
+    "file": "samples/image78.webp",
+    "mime": "image/webp",
+    "source": "image78.jpeg"
+  },
+  "image79": {
+    "file": "samples/image79.webp",
+    "mime": "image/webp",
+    "source": "image79.jpeg"
+  },
+  "image80": {
+    "file": "samples/image80.webp",
+    "mime": "image/webp",
+    "source": "image80.jpeg"
+  },
+  "image81": {
+    "file": "samples/image81.webp",
+    "mime": "image/webp",
+    "source": "image81.jpeg"
+  },
+  "image82": {
+    "file": "samples/image82.webp",
+    "mime": "image/webp",
+    "source": "image82.jpeg"
+  },
+  "image83": {
+    "file": "samples/image83.webp",
+    "mime": "image/webp",
+    "source": "image83.jpeg"
+  },
+  "image84": {
+    "file": "samples/image84.webp",
+    "mime": "image/webp",
+    "source": "image84.jpeg"
+  },
+  "image85": {
+    "file": "samples/image85.webp",
+    "mime": "image/webp",
+    "source": "image85.jpeg"
+  },
+  "image86": {
+    "file": "samples/image86.webp",
+    "mime": "image/webp",
+    "source": "image86.jpeg"
+  },
+  "image87": {
+    "file": "samples/image87.webp",
+    "mime": "image/webp",
+    "source": "image87.jpeg"
+  },
+  "image88": {
+    "file": "samples/image88.webp",
+    "mime": "image/webp",
+    "source": "image88.jpeg"
+  },
+  "image89": {
+    "file": "samples/image89.webp",
+    "mime": "image/webp",
+    "source": "image89.png"
+  },
+  "image90": {
+    "file": "samples/image90.webp",
+    "mime": "image/webp",
+    "source": "image90.jpeg"
+  },
+  "image91": {
+    "file": "samples/image91.webp",
+    "mime": "image/webp",
+    "source": "image91.jpeg"
+  },
+  "image92": {
+    "file": "samples/image92.webp",
+    "mime": "image/webp",
+    "source": "image92.jpeg"
+  },
+  "image93": {
+    "file": "samples/image93.webp",
+    "mime": "image/webp",
+    "source": "image93.jpeg"
+  },
+  "image94": {
+    "file": "samples/image94.webp",
+    "mime": "image/webp",
+    "source": "image94.png"
+  },
+  "image95": {
+    "file": "samples/image95.webp",
+    "mime": "image/webp",
+    "source": "image95.png"
+  },
+  "image96": {
+    "file": "samples/image96.webp",
+    "mime": "image/webp",
+    "source": "image96.png"
+  },
+  "image97": {
+    "file": "samples/image97.webp",
+    "mime": "image/webp",
+    "source": "image97.jpeg"
+  },
+  "image98": {
+    "file": "samples/image98.webp",
+    "mime": "image/webp",
+    "source": "image98.jpeg"
+  },
+  "image99": {
+    "file": "samples/image99.webp",
+    "mime": "image/webp",
+    "source": "image99.png"
+  },
+  "image201": {
+    "file": "generated/monday-clock.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "办公室里一只融化的巨型时钟",
+      "en": "A giant clock melting onto an office desk"
+    }
+  },
+  "image202": {
+    "file": "generated/elevator-button.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "用力按下巨型关门键，但电梯门仍然敞开",
+      "en": "An enormous close-door button, with the elevator still open"
+    }
+  },
+  "image203": {
+    "file": "generated/fridge-dig.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "微型考古队正在冰箱里研究剩菜",
+      "en": "Tiny archaeologists excavating leftovers inside a refrigerator"
+    }
+  },
+  "image204": {
+    "file": "generated/parcel-quest.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "披着斗篷的快递包裹踏上史诗旅程",
+      "en": "A parcel in a cape beginning an epic journey"
+    }
+  },
+  "image205": {
+    "file": "generated/noted-office.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "会议桌旁全是确认印章，中间的文件却无人处理",
+      "en": "Approval stamps surround an untouched task folder"
+    }
+  },
+  "image206": {
+    "file": "generated/shower-boardroom.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "淋浴间里正在举行一场荒诞的董事会",
+      "en": "An imaginary board meeting inside a shower"
+    }
+  },
+  "image207": {
+    "file": "generated/fridge-artifacts.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "半颗柠檬、酱料包和蛋糕残块被当作考古文物",
+      "en": "A lemon, sauce packets and a cake remnant displayed as museum artifacts"
+    }
+  },
+  "image208": {
+    "file": "generated/nested-boxes.webp",
+    "mime": "image/webp",
+    "origin": "generated",
+    "alt": {
+      "zh-CN": "考古学家发现套在一起的空保鲜盒",
+      "en": "An archaeologist discovers nested empty food containers"
+    }
+  }
+}

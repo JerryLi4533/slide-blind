@@ -1,0 +1,18 @@
+{
+  "name": "slide-blind",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Local-first bilingual presentation karaoke. One HTML, zero dependencies.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "demo": "node src/cli.mjs demo",
+    "samples": "node scripts/build-samples.mjs",
+    "share": "node scripts/export-share.mjs",
+    "generate": "node --env-file-if-exists=.env src/cli.mjs generate",
+    "render": "node src/cli.mjs render",
+    "prompt": "node src/cli.mjs prompt",
+    "test": "node --test",
+    "preview": "node src/preview.mjs"
+  }
+}

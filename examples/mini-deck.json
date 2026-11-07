@@ -1,0 +1,71 @@
+{
+  "id": "coffee-meeting",
+  "title": {
+    "zh-CN": "咖啡才是会议主持人",
+    "en": "Coffee Chairs the Meeting"
+  },
+  "category": {
+    "zh-CN": "办公室观察",
+    "en": "Office observations"
+  },
+  "description": {
+    "zh-CN": "用于验证导入与渲染的三页双语示例。",
+    "en": "A three-slide bilingual example for import and rendering."
+  },
+  "collection": "new",
+  "theme": "cream",
+  "accent": "orange",
+  "slides": [
+    {
+      "type": "cover",
+      "title": {
+        "zh-CN": "咖啡才是会议主持人",
+        "en": "Coffee Chairs the Meeting"
+      },
+      "subtitle": {
+        "zh-CN": "它一到场，大家才愿意说话。",
+        "en": "Nobody speaks until it arrives."
+      }
+    },
+    {
+      "type": "compare",
+      "title": {
+        "zh-CN": "两种会议状态",
+        "en": "Two Meeting States"
+      },
+      "items": [
+        {
+          "label": {
+            "zh-CN": "咖啡到场前",
+            "en": "Before coffee"
+          },
+          "detail": {
+            "zh-CN": "所有人都在等待别人先开口。",
+            "en": "Everyone waits for someone else to speak."
+          }
+        },
+        {
+          "label": {
+            "zh-CN": "咖啡到场后",
+            "en": "After coffee"
+          },
+          "detail": {
+            "zh-CN": "所有人都在讨论谁拿错了杯子。",
+            "en": "Everyone debates who took the wrong cup."
+          }
+        }
+      ]
+    },
+    {
+      "type": "finale",
+      "title": {
+        "zh-CN": "下次会议请只邀请咖啡",
+        "en": "Next Time, Invite Only the Coffee"
+      },
+      "subtitle": {
+        "zh-CN": "至少它能保证准时到场。",
+        "en": "At least it can arrive on time."
+      }
+    }
+  ]
+}

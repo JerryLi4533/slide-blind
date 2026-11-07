@@ -1,0 +1,58 @@
+[
+  {
+    "id": "monday-clock",
+    "prompt": "Use case: illustration-story. Create one square editorial image for a funny presentation about Monday making time slow down. A tired adult office worker sits at a tidy desk in a dark contemporary office, staring at an absurdly large wall clock whose lower half droops and melts like soft cheese onto the desk. Cold daylight, subtle amber desk light, charcoal and warm cream palette. Surreal cinematic miniature-diorama photography with tactile materials, sophisticated funny deadpan mood, clear strong composition. The clock has ticks and hands but no numerals. No written text, letters, captions, logos or watermarks. No layout panels or collage. Subject fills frame but has comfortable margins.",
+    "assetId": "image201",
+    "tool": "built-in image_gen",
+    "output": "generated/monday-clock.webp"
+  },
+  {
+    "id": "elevator-button",
+    "prompt": "Use case: illustration-story. One square editorial surreal miniature photograph for a humorous talk about the elevator close-door button giving humans false confidence. In a sage-green brushed-metal elevator, an ordinary adult office worker very solemnly presses a ludicrously oversized circular close-door button with two inward-facing triangle symbols; the elevator door behind them stays wide open. Their exaggerated concentration makes the scene funny. Close medium view, no excessive button clutter. Tactile practical miniature set, soft cinematic lighting, pale mint and warm ivory palette, elegant and amusing. No words, letters, numbers, logos, captions or watermark. Only simple inward-triangle button symbols allowed. No panels or collage.",
+    "assetId": "image202",
+    "tool": "built-in image_gen",
+    "output": "generated/elevator-button.webp"
+  },
+  {
+    "id": "fridge-dig",
+    "prompt": "Use case: illustration-story. One square surreal editorial miniature photograph: the open interior of an ordinary refrigerator has become an archaeological excavation. Tiny fully clothed archaeologists wearing khaki hats delicately brush and inspect full-sized leftover food containers on the shelves as if excavating ancient ruins. A half lemon, small cake remnant, and sauce packets are visible, no disgusting mold. One archaeologist illuminates a mysterious covered lunch box with a flashlight. Warm ivory refrigerator, muted sage and honey tones, inviting cool refrigerator light, tactile high-quality miniature diorama, funny yet seriously conducted excavation. Clear composition, no text, lettering, labels, brands, watermark or collage.",
+    "assetId": "image203",
+    "tool": "built-in image_gen",
+    "output": "generated/fridge-dig.webp"
+  },
+  {
+    "id": "parcel-quest",
+    "prompt": "Use case: illustration-story. One square cinematic humorous miniature-diorama photograph for a presentation about parcel tracking as epic literature. A small ordinary brown cardboard parcel with a plain red fabric cape stands heroically on a winding road overlooking a huge miniature nighttime city, just as a knight reaches the final kingdom. The cardboard box has no arms or face; the cape makes its heroic role clear. Long serpentine route marked with small warm lights, apartment windows glowing in the distance. Charcoal navy and amber palette, tactile handmade model textures, elegant dramatic lighting, affectionate deadpan comedy. No words, labels, numbers, logos, watermark, or collage.",
+    "assetId": "image204",
+    "tool": "built-in image_gen",
+    "output": "generated/parcel-quest.webp"
+  },
+  {
+    "id": "noted-office",
+    "prompt": "Use case: illustration-story. One square surreal editorial miniature photograph for a funny presentation about everyone acknowledging a task but nobody doing it. An empty mint-green office meeting room with a single untouched sealed folder in the middle of a large table. Surrounding it are many identical shiny rubber stamps standing upright like delegates at a meeting, each has a simple checkmark symbol on its face, no writing. Huge stacks of stamped blank paper around the room, all the chairs empty. Precisely arranged, subtle absurdity, tactile physical diorama, soft daylight, sage mint cream and dark green palette. The untouched folder is the visual focus. No letters, words, logos, numbers, watermark or multi-panel layout.",
+    "assetId": "image205",
+    "tool": "built-in image_gen",
+    "output": "generated/noted-office.webp"
+  },
+  {
+    "id": "shower-boardroom",
+    "prompt": "Use case: illustration-story. One square surreal editorial miniature photograph for a funny slide called the shower is the ultimate strategy meeting. A tiny luxurious boardroom sits inside a bathroom shower cubicle: miniature conference table, empty leather chairs, and one fully clothed adult wearing an opaque white bathrobe standing like a confident CEO, thoughtfully gesturing at a cloud of glowing idea-lightbulbs in warm shower steam. An oversized showerhead overhead is the unmistakable setting. No nudity or exposed body. Moody navy-blue tiles, warm golden bulbs, cinematic lighting, tactile whimsical miniature set, high visual clarity and deadpan humor. No words, letters, logos, numbers, watermark or collage.",
+    "assetId": "image206",
+    "tool": "built-in image_gen",
+    "output": "generated/shower-boardroom.webp"
+  },
+  {
+    "id": "fridge-artifacts",
+    "prompt": "Use case: illustration-story. One landscape 4:3 editorial photograph of an absurd museum archaeological evidence display. Three small everyday refrigerator remnants arranged side by side on individual simple ivory museum plinths: half a lemon on the left, two plain unlabeled sauce sachets in the center, a tiny leftover bite of cake on the right. Each item treated as a priceless ancient artifact under delicate spotlights; small magnifying glasses and a conservator's brush enhance the joke. Cream and warm stone palette, dark sage background, refined museum still life, beautifully textured realistic objects, no disgusting mold. No writing, labels, numbers, letters, logos, watermark or panels. These three objects must be unmistakable.",
+    "assetId": "image207",
+    "tool": "built-in image_gen",
+    "output": "generated/fridge-artifacts.webp"
+  },
+  {
+    "id": "nested-boxes",
+    "prompt": "Use case: illustration-story. One square editorial surreal photograph of a refrigerator shelf holding a transparent food storage container. Its lid is open, revealing another smaller transparent container inside, also open, revealing another tiny empty container. Exactly three nested boxes, like a Russian nesting doll of abandoned meal prep. A tiny archaeologist in khaki explorer clothing peers into the smallest box with a flashlight, completely baffled. Clear nested geometry with three visible lids arranged so the viewer understands at once. Cool refrigerator light with warm cream accents, tactile miniature diorama, sophisticated funny deadpan mood. No food, no text, letters, labels, logos or watermark.",
+    "assetId": "image208",
+    "tool": "built-in image_gen",
+    "output": "generated/nested-boxes.webp"
+  }
+]
